@@ -12,12 +12,12 @@ website:
         text: Home
       - text: Academic Projects
         menu: 
-          - text: DSAN 5000 - Data Science & Analytics
+          - text: "Clicks vs. Bricks: Demographic and Financial Drivers of Shopping Preferences"
             href: https://htran.georgetown.domains/5000-Project/ 
-          - text: DSAN 5100 - Probability & Statistics
-            href: https://www.google.com/
-          - text: DSAN 6300 - Database Systems
-            href: https://www.google.com/
+          - text: "Airbnb: What Factors Influence Price?"
+            href: https://htran.georgetown.domains/5100-Project/ 
+          - text: "Data Analysis & Viz of FAA Flight Data"
+            href: https://htran.georgetown.domains/6300-Project/ 
     right:
       - icon: github
         href: https://github.com/hungtran10
@@ -31,6 +31,7 @@ format:
   html:
     theme: zephyr
     toc: true
+    toc-location: left
 
 
 

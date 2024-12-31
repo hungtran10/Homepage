@@ -1,8 +1,7 @@
 ---
-title: "Hung Tran"
+title: "About Me"
 ---
 
-# About Me
 ![](assets/Headshot1.JPG){width=300}
 
 I am a first-year M.S. in Data Science and Analytics student at Georgetown University. I graduated with a B.S. in Commerce (Finance, IT, and Business Analytics) from the University in Virginia. Go Hoos!
