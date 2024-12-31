@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: Homepage
+
+website:
+  title: "Hung Tran"
+  favicon: "assets/gu-logo.png"
+  back-to-top-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Academic Projects
+        menu: 
+          - text: DSAN 5000 - Data Science & Analytics
+            href: https://htran.georgetown.domains/5000-Project/ 
+          - text: DSAN 5100 - Probability & Statistics
+            href: https://www.google.com/
+          - text: DSAN 6300 - Database Systems
+            href: https://www.google.com/
+    right:
+      - icon: github
+        href: https://github.com/hungtran10
+        aria-label: GitHub 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/hungtran8/
+        aria-label: LinkedIn
+
+
+format:
+  html:
+    theme: zephyr
+    toc: true
+
+
+
