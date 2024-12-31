@@ -1,17 +1,29 @@
 ---
 title: "About Me"
-
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true
+    toc-location: left
 ---
+
 
 <div class="about-container">
   <img src="assets/Headshot1.JPG" alt="Headshot" class="about-image">
   <div class="about-text">
+
+    ## Educational Background
     Welcome to my personal website! My name is Hung Tran, and I will be using this website to showcase some of the work I have done. I am a first-year M.S. in Data Science and Analytics student at Georgetown University. I graduated with a B.S. in Commerce (concentrations in Finance & IT, with a track in Business Analytics) from the University in Virginia. Go Hoos!
 
+    ## Career Aspirations
     I enjoy analyzing life through a business lens as I believe it is a powerful catalyst for change. My past internships have allowed me the opportunities to collaborate, communicate and problem solve via research and recommendation. For my first full-time job, I look forward to being in a role where I can combine my business acumen with my burgeoning technical skills to harness data for impactful decision-making. 
 
+    ## Hobbies and Interests
     My personal interests and hobbies are fragrances, watching the Premier League and FC Barcelona, cooking, pickleball, and going to the gym. 
 
+    ## Contact 
     You can reach me at <mt1584@georgetown.edu> for any inquiries. Please visit my [LinkedIn profile](https://www.linkedin.com/in/hungtran8/) for a more comprehensive overview of my professional and academic career, and send me a request if you'd like to connect!
   </div>
 </div>
+
