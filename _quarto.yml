@@ -30,6 +30,7 @@ website:
 format:
   html:
     theme: zephyr
+    css: styles.css
     toc: true
     toc-location: left
 
