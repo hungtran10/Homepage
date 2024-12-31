@@ -1,8 +1,6 @@
 ---
 title: "About Me"
-format:
-  html:
-    css: styles.css
+
 ---
 
 <div class="about-container">
